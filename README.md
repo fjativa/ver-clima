@@ -6,7 +6,7 @@ Este proyecto esta hecho con Javascript, HTM, CCS consumiendo una API de openwea
 * [linkedin](https://www.linkedin.com/in/fredy-jativa-145b7ab6/) 
 
 ## Ver ejemplo en vivo.
-- [misitio](misitio)
+- [https://fjativa.github.io/ver-clima/](https://fjativa.github.io/ver-clima/)
 
 ## Instalación.
 Este proyecto no necesita instalación.
